@@ -1,8 +1,26 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+
 .column {
-  width: 33%;
+  width: 30.33%;
   float: left;
+  text-align: center;
+  padding: 1.5%;
 }
 
 img {
-  max-width: 300px;
+  max-width: 100%;
+}
+
+.footer {
+  position: fixed;bottom:0;
+  width:100%
+  color: #FF9966;
+  background: #333;
 }
